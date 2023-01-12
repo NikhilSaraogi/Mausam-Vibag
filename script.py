@@ -13,7 +13,7 @@ st.title(" 📅 MAUSAM VIBHAG 🌥️ ☔ ")
 
 col1, mid, col2 = st.beta_columns([80, 5, 140])
 with col1:
-    st.write('## 📌 ️MADE BY - Nikhil & Lakshya ')
+    st.write('## 📌 ️MADE BY - Nikhil Saraogi')
 with col2:
     st.image('india.jpg', width=50)
 
